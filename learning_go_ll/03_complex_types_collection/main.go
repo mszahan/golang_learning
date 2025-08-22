@@ -5,7 +5,8 @@ func main() {
 	// pointer()
 	// test_array()
 	// check_slice()
-	check_maps()
+	// check_maps()
+	check_structs()
 }
 
 // go mod init packagename
